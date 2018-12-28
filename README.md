@@ -11,7 +11,5 @@ https://jbocinsky.github.io/AutonomousTurret/
 ## Teaser
 
 <p align="center">
-	<img src="./AutonomosTurretActual.JPG" width="350" height ="350" />
+	<img src="./AutonomosTurretActual.JPG" width="350" height ="500" />
 </p>
-
-![alt text](./AutonomosTurretActual.JPG)
