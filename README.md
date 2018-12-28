@@ -10,4 +10,4 @@ https://jbocinsky.github.io/AutonomousTurret/
 
 ## Teaser
 
-[embed]https://github.com/jbocinsky/SunshineAlarm/blob/master/Final%20Project%20Report.pdf[/embed]
+![alt text](./AutonomosTurretActual.JPG)
